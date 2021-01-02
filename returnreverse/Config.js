@@ -2,7 +2,7 @@ var Config = {};
 
 //base:
 Config.debug = false;
-Config.framerate = 60;
+Config.framerate = 1000;
 Config.backgroundColor = '#fff';
 
 //piece:
